@@ -180,4 +180,11 @@ Please see the attached MIT license.
 
 # Citation
 
-Once published, citation will be added here. 
+```
+@article{juybari2025cgs,
+  title={Context-Guided Segmentation for Histopathologic Cancer Segmentation},
+  author={Juybari, Jeremy and Hamilton, Josh and Chen, Chaofan and Khalil, Andre and Zhu, Yifeng},
+  journal={Sci Rep},
+  year={2025}
+}
+``` 
